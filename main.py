@@ -26,4 +26,4 @@ print(calc.add(5, 3))         # Output: 8
 print(calc.subtract(5, 3))    # Output: 2
 print(calc.multiply(5, 3))    # Output: 15
 print(calc.divide(6, 3))      # Output: 2.0
-print(calc.divide(5, 0))      # Output: Error! Division by zero is not allowed.
+print(calc.divide(10, 0))      # Output: Error! Division by zero is not allowed.
